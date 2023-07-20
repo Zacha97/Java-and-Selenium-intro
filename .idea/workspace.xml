@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26e777f3-3b35-4216-a206-81a3b1068d29" name="Changes" comment="">
+    <list default="true" id="26e777f3-3b35-4216-a206-81a3b1068d29" name="Changes" comment="Updated FirstTest.java and pom.xml.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +102,19 @@
       <option name="presentableId" value="Default" />
       <updated>1689864007187</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated FirstTest.java and pom.xml.">
+      <option name="closed" value="true" />
+      <created>1689878814150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689878814150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated FirstTest.java and pom.xml." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated FirstTest.java and pom.xml." />
   </component>
 </project>

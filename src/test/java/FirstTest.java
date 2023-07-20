@@ -13,7 +13,7 @@ public class FirstTest {
     public void driverSetup(){
         System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
         driver = new ChromeDriver();
-        driver.manage().window().setSize(new Dimension(1275,730)); //ustawianie width oraz height przeglądarki
+        driver.manage().window().setSize(new Dimension(1275,730)); // set width and height of browser
     }
 
     @AfterEach
